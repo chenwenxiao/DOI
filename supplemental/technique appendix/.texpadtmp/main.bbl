@@ -1,0 +1,60 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{clanuwat2018deep}
+Clanuwat, T., Bober-Irizar, M., Kitamoto, A., Lamb, A., Yamamoto, K., Ha, D.:
+  Deep learning for classical japanese literature (2018)
+
+\bibitem{davis2006relationship}
+Davis, J., Goadrich, M.: The relationship between precision-recall and roc
+  curves. In: Proceedings of the 23rd international conference on Machine
+  learning. pp. 233--240 (2006)
+
+\bibitem{deng2009imagenet}
+Deng, J., Dong, W., Socher, R., Li, L.j., Li, K., Li, F.f.: Imagenet: A
+  large-scale hierarchical image database. CVPR pp. 248--255 (2009)
+
+\bibitem{krizhevsky2009learning}
+Krizhevsky, A., Hinton, G., et~al.: Learning multiple layers of features from
+  tiny images. Tech. rep., Citeseer (2009)
+
+\bibitem{lake2015human}
+Lake, B.M., Salakhutdinov, R., et~al.: Human-level concept learning through
+  probabilistic program induction. Science  \textbf{350}(6266),  1332--1338
+  (2015)
+
+\bibitem{lecun1998gradient}
+LeCun, Y., Bottou, L., et~al.: Gradient-based learning applied to document
+  recognition. Proceedings of the IEEE  \textbf{86}(11),  2278--2324 (1998)
+
+\bibitem{liu2015deep}
+Liu, Z., Luo, P., et~al.: Deep learning face attributes in the wild. In:
+  Proceedings of the IEEE international conference on computer vision. pp.
+  3730--3738 (2015)
+
+\bibitem{netzer2011reading}
+Netzer, Y., Wang, T., et~al.: Reading digits in natural images with
+  unsupervised feature learning  (2011)
+
+\bibitem{saito2015precision}
+Saito, T., Rehmsmeier, M.: The precision-recall plot is more informative than
+  the roc plot when evaluating binary classifiers on imbalanced datasets. PloS
+  one  \textbf{10}(3),  e0118432 (2015)
+
+\bibitem{xiao2017/online}
+Xiao, H., Rasul, K., et~al.: Fashion-mnist: a novel image dataset for
+  benchmarking machine learning algorithms (2017)
+
+\bibitem{xu2015turkergaze}
+Xu, P., Ehinger, A.K., Zhang, Y., Finkelstein, A., Kulkarni, R.S., Xiao, J.:
+  Turkergaze: Crowdsourcing saliency with webcam based eye tracking. CoRR
+  (2015)
+
+\bibitem{yu2015lsun}
+yu, f., zhang, y., song, s., seff, a., xiao, j.: Lsun: Construction of a
+  large-scale image dataset using deep learning with humans in the loop. CoRR
+  (2015)
+
+\end{thebibliography}

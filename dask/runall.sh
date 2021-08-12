@@ -1,0 +1,1 @@
+for i in {0..91}; do (bash dask_run.sh -- bash start.sh ${1} $i); done

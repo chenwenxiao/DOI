@@ -1,3 +1,1 @@
-# DOI
-
-The code for paper 
+# wasserstein-ood-regularizer

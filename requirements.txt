@@ -1,0 +1,11 @@
+git+https://github.com/haowen-xu/ml-essentials
+git+https://github.com/haowen-xu/tensorkit
+click
+dataclasses-json
+imgaug
+numpy
+opencv-python
+pandas
+pillow
+PyYAML
+terminaltables

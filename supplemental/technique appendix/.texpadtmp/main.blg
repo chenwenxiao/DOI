@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/shiro/GitProject/wasserstein-ood-regularizer/supplemental/technique appendix/.texpadtmp/main.aux
+The style file: ../splncs04.bst
+Database file #1: ../reference.bib
+Warning--entry type for "xiao2017/online" isn't style-file defined
+--line 154 of file ../reference.bib
+Repeated entry---line 474 of file ../reference.bib
+ : @article{lecun1998gradient
+ :                           ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "clanuwat2018deep" isn't style-file defined
+--line 485 of file ../reference.bib
+Warning--empty journal in netzer2011reading
+You've used 12 entries,
+            2850 wiz_defined-function locations,
+            659 strings with 6744 characters,
+and the built_in function-call counts, 6911 in all, are:
+= -- 559
+> -- 249
+< -- 9
++ -- 104
+- -- 90
+* -- 430
+:= -- 893
+add.period$ -- 11
+call.type$ -- 12
+change.case$ -- 80
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 602
+empty$ -- 594
+format.name$ -- 102
+if$ -- 1492
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 123
+newline$ -- 42
+num.names$ -- 24
+pop$ -- 251
+preamble$ -- 1
+purify$ -- 63
+quote$ -- 0
+skip$ -- 201
+stack$ -- 0
+substring$ -- 382
+swap$ -- 333
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 48
+warning$ -- 1
+while$ -- 53
+width$ -- 14
+write$ -- 114
+(There was 1 error message)
